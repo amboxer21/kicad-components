@@ -1,4 +1,4 @@
-# kicad components, datasheets, and mods.
+# kicad components, datasheets, dimensions, and mods.
 
 > I built the g5le-1a-e-36-dc5 module from scratch using kicad and a 0.1mm pitch.
 

@@ -1,4 +1,4 @@
-# kicad-components
+# kicad components, datasheets, and mods.
 
 g5le-1a-e-36-dc5 [component](https://www.newark.com/omron-electronic-components/g5le-1a-e-36-dc5/power-pcb-relay/dp/88M4311)
 
